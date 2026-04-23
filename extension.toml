@@ -1,0 +1,10 @@
+id = "jira-mcp"
+name = "Jira MCP Server"
+version = "0.1.0"
+schema_version = 1
+authors = ["Nitipat Boongate <nitipatboongate@gmail.com>"]
+description = "Zed MCP extension that launches mcp-atlassian for Jira/Confluence."
+repository = "https://github.com/nitipat009/zed-mcp-server-jira"
+
+[context_servers.jira-mcp]
+name = "Jira MCP Server"
